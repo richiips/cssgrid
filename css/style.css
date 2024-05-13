@@ -129,14 +129,14 @@ body{
 }
 
 .caratula{
-    width: 100%;
-    height: 420px;
+    width: 370px;
+    height: 520px;
     object-fit: cover;
     border-radius: 2rem;
 }
 
 .gameTitle{
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     color: white;
 }
 
